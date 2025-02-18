@@ -1,0 +1,2 @@
+pyicu
+pythainlp==2.0.0
